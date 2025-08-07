@@ -56,14 +56,6 @@ Categorizes market conditions into four states:
 - Volume: VWMA, Chaikin Money Flow  
 - Trend Strength: ADX, Fisher Transform  
 
-## 📁 File Structure
-
-├── Algorithmic_Trading_Strategy.pdf # Strategy documentation
-├── sdk_team2_iitbbs.py # Main implementation
-├── vector_team2_iitbbs.py # Vectorized version
-├── README.md 
-└── Historical_dataset # Historical OHLCV data for BTC/USDT for various time frames from 2019 to 2023
-
 ## 📊 Performance Metrics
 
 - **Annual Returns**: Outperformed benchmarks in 3 of 4 years  
